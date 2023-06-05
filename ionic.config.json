@@ -1,0 +1,7 @@
+{
+  "name": "Photograph Manipulation App",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
